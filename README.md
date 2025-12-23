@@ -1,4 +1,4 @@
-\# LeetCode DSA Practice
+\LeetCode DSA Practice
 
 
 
@@ -14,7 +14,7 @@ Each solution includes:
 
 
 
-\## Topics
+\Topics
 
 \- Arrays \& Two Pointers
 
@@ -30,7 +30,7 @@ Each solution includes:
 
 
 
-\## Goal
+\Goal
 
 \- Build strong DSA fundamentals
 
